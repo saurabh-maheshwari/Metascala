@@ -5,3 +5,7 @@ target/
 lib_managed/
 src_managed/
 *.iml
+/bin/
+.classpath
+.project
+.settings/
